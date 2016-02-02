@@ -426,7 +426,7 @@ public class CqlCount {
 	    fsize = 0;
 	} 
 
-	System.out.println("Count: " + count);
+	System.out.println(keyspaceName + "." + tableName + " total count : " + count);
 
 	return true;
     }
