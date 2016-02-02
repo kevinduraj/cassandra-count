@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a24574a-e4c6-4c98-8db0-c74b972743ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cassandra-count.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hessian/CqlCount.java" afterPath="$PROJECT_DIR$/src/main/java/hessian/CqlCount.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,8 +40,8 @@
       <file leaf-file-name="CqlCount.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hessian/CqlCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45504087">
-              <caret line="428" column="70" selection-start-line="428" selection-start-column="70" selection-end-line="428" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.5">
+              <caret line="428" column="59" selection-start-line="428" selection-start-column="59" selection-end-line="428" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -603,7 +600,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1454436774593" />
+    <option name="lastUpdateTimestamp" value="1454437805587" />
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$/../retail/spark" value="1454128244000" />
@@ -622,12 +619,12 @@
       <created>1454436743353</created>
       <option name="number" value="Default" />
       <updated>1454436743353</updated>
-      <workItem from="1454436749852" duration="185000" />
+      <workItem from="1454436749852" duration="695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185000" />
+    <option name="totallyTimeSpent" value="695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
@@ -676,8 +673,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/hessian/CqlCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45504087">
-          <caret line="428" column="70" selection-start-line="428" selection-start-column="70" selection-end-line="428" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.5">
+          <caret line="428" column="59" selection-start-line="428" selection-start-column="59" selection-end-line="428" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

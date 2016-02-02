@@ -424,9 +424,9 @@ public class CqlCount {
 	    }
 	    flist.clear();
 	    fsize = 0;
-	} 
+	}
 
-	System.out.println(keyspaceName + "." + tableName + " total count : " + count);
+	System.out.printf(keyspaceName + "." + tableName +  "\trows=%,d\n", count );
 
 	return true;
     }
